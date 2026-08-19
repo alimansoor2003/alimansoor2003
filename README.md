@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Ai pet feeder<br>🌱 I’m currently learning Ai & ML<br>💬 Ask me about Secret Ai solutions <br>
+🔭 I’m currently working on SafetyEye AI<br>🌱 I’m currently learning Ai & ML<br>💬 Ask me about Secret Ai solutions <br>
 
 
 ## 🌐 Socials:
